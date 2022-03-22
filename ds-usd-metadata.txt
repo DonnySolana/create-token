@@ -1,0 +1,6 @@
+{
+  "name": "DSUSD",
+  "symbol": "DSUSD",
+  "description": "Donny Solana Token",
+  "image": "https://avatars.githubusercontent.com/u/79116664?v=4"
+}
